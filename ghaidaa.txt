@@ -3,3 +3,6 @@ next
 Hello from now
 To test rebase 1
 To test rebase 2
+To test Squash 1
+To test Squash 2
+To test Squash 3
