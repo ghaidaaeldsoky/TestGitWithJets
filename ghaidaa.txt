@@ -2,3 +2,4 @@ Hello from here
 next
 Hello from now
 To test rebase 1
+To test rebase 2
